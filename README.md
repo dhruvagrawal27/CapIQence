@@ -5,7 +5,7 @@ ChatGroq is a streamlined and efficient open-source language model designed for 
 
 
 Demo
-[![Watch the video](https://raw.githubusercontent.com/dhruvagrawal27/CapIQence/main/thumbnail.png)](https://raw.githubusercontent.com/dhruvagrawal27/CapIQence/main/Runvideo.mp4)
+[![Watch the video](https://raw.githubusercontent.com/dhruvagrawal27/CapIQence/main/thumbnail.png)](https://raw.githubusercontent.com/dhruvagrawal27/CapIQence/main/video.mp4)
 
 ---
 
